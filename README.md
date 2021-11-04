@@ -1,12 +1,12 @@
 # Seja bem-vindo!!! Me Chamo Marcos Alexandre
   <div>
     <a href="https://github.com/MarcosdeAndrade-byte">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=MarcosdeAndrade-byte&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosdeAndrade-byte&layout=compact&langs_count=7&theme=dark"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarcosdeAndrade-byte&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosdeAndrade-byte&layout=compact&langs_count=7&theme=dark"/>
   </div>
   
   <div>
-     <img align="center" alt="Rafa-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+     <img align="center" alt="marcos-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   </div>
 
    
