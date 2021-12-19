@@ -1,6 +1,6 @@
 # Seja bem-vindo!!! Me Chamo Marcos Alexandre :dvd:
    <div>
-     📚Cursando análise e desenvolvimento de sistemas pela UCB | ☕ Estudando Java e outras tecnologias para me tornar um programador Back-end. <br>
+     📚Cursando análise e desenvolvimento de sistemas pela UCB | ☕ Estudando Java e outras tecnologias para me tornar um programador Back-end. <br><br>
      📌Tecnologias:
       <ul>
        <li>Java 11</li>
