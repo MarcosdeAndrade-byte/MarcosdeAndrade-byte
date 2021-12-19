@@ -1,15 +1,24 @@
-# Seja bem-vindo!!! Me Chamo Marcos Alexandre
+# Seja bem-vindo!!! Me Chamo Marcos Alexandre :dvd:
+   <div>
+     📚Cursando análise e desenvolvimento de sistemas pela UCB | ☕ Estudando Java e outras tecnologias para me tornar um programador Back-end. <br>
+     📌Tecnologias:
+      <ul>
+       <li>Java 11</li>
+       <li>UML</li>
+       <li>Git e GitHub</li>
+       <li>Algoritmos e lógica de Programação</li>
+     </ul>
+   </div>
   <div>
     <a href="https://github.com/MarcosdeAndrade-byte">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarcosdeAndrade-byte&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosdeAndrade-byte&layout=compact&langs_count=7&theme=dark"/>
   </div>
-  
+ 
   <div>
      <img align="center" alt="marcos-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   </div>
-
-   
+  
   ##
   
   <div>
