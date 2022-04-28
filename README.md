@@ -3,6 +3,8 @@
      📚Cursando análise e desenvolvimento de sistemas pela UCB | ☕ Estudando para me tornar um programador Back-end. <br><br>
      📌Tecnologias:
       <ul>
+       <li>Node.Js</li>
+       <li>JavaScript</li>
        <li>Java 11</li>
        <li>UML</li>
        <li>Git e GitHub</li>
@@ -16,8 +18,10 @@
   </div>
  
   <div>
-     <img align="center" alt="marcos-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  </div>
+     <img align="center" alt="marcos-Js" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+     <img align="center" alt="marcos-Js" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+     <img align="center" alt="marcos-Js" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+   </div>
   
   ##
   
